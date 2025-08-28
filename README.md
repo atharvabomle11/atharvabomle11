@@ -68,9 +68,16 @@
 <hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/atharvabomle11/atharvabomle11" >
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvabomle11&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+<!-- Coding GIF -->
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvabomle11&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvabomle11&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="160"/>
+</p>
+
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=atharvabomle11&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
