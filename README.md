@@ -67,16 +67,16 @@
 
 <hr width="36%" >
 
-<h3>My GitHub Stats</h3>
-
-<!-- Coding GIF -->
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-<!-- GitHub Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvabomle11&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvabomle11&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" height="160"/>
+### 📊 My GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharvabomle11&show_icons=true&theme=dark&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvabomle11&show_icons=true&theme=dark&locale=en&layout=compact" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvabomle11&theme=dark" height="160"/>
+</p>
+
 
 
 <br><br><br><br><br><br><br>
